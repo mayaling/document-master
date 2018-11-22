@@ -1,0 +1,11 @@
+.hearderTop{
+	text-align: left;
+	background: #f3f3f3;
+	height: 60px;
+	line-height: 60px;
+	font-size: 20px;
+	padding-left: 60px;
+	span{
+		color: red;
+	}
+}
